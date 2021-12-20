@@ -4,4 +4,4 @@ This template should help get you started developing with Svelte, TypeScript, Vi
 
 ## Recommended IDE Setup
 
-[VSCode](https://code.visualstudio.com/) + Recommended extensuions (CTRL + Shift + P > "Show recommended extensions"
+[VSCode](https://code.visualstudio.com/) + Recommended extensions (CTRL + Shift + P > "Show recommended extensions"
