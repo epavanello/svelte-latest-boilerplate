@@ -16,5 +16,6 @@ module.exports = {
     browser: true,
     es2017: true,
     node: true
-  }
+  },
+  settings: { 'svelte3/typescript': true, 'svelte3/ignore-styles': () => true }
 }
